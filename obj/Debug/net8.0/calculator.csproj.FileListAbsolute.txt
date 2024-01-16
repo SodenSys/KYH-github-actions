@@ -97,3 +97,4 @@ C:\Users\admin\Desktop\intMain\C#\intMain\calculator\obj\Debug\net8.0\refint\cal
 C:\Users\admin\Desktop\intMain\C#\intMain\calculator\obj\Debug\net8.0\calculator.pdb
 C:\Users\admin\Desktop\intMain\C#\intMain\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
 C:\Users\admin\Desktop\intMain\C#\intMain\calculator\obj\Debug\net8.0\ref\calculator.dll
+C:\Users\admin\Desktop\intMain\C#\intMain\calculator\obj\Debug\net8.0\calculator.sourcelink.json
